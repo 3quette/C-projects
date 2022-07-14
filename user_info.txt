@@ -1,0 +1,20 @@
+
+NAME: pookni
+PHONE NUMBER: ka
+ADDRESS: t
+BILL : 0
+
+NAME: arisha
+PHONE NUMBER: 7873
+ADDRESS: gsxgs
+BILL : 0
+
+NAME: Shehan
+PHONE NUMBER: 23123
+ADDRESS: Address
+BILL : 0
+
+NAME: are
+PHONE NUMBER: 12
+ADDRESS: ad
+BILL : 0
